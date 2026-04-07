@@ -63,8 +63,8 @@ Location: San Francisco, CA`
             description: 'View social media links',
             usage: 'social',
             fn: () => `Twitter: @yuvidev
-LinkedIn: /in/yuvrajsingh
-Portfolio: yuvrajsingh.dev`
+LinkedIn: /in/nehasingh
+Portfolio: nehasingh.dev`
         },
         echo: {
             description: 'Echo a passed string',
@@ -96,7 +96,7 @@ Happy exploring! 🚀
                 <Terminal
                     commands={commands}
                     welcomeMessage={welcomeMessage}
-                    promptLabel={'yuvrajsingh:~$'}
+                    promptLabel={'nehasingh:~$'}
                     promptLabelStyle={{ color: '#00ff00' }}
                 />
             </div>

@@ -46,7 +46,7 @@ const Dock = ({ windowsState, setWindowsState }) => {
       </div>
       <div
         onClick={() => {
-          window.open("mailto:yuvraj@example.com", "_blank");
+          window.open("mailto:neha@example.com", "_blank");
         }}
         className="icon mail"
       >
@@ -55,7 +55,7 @@ const Dock = ({ windowsState, setWindowsState }) => {
       <div
         onClick={() => {
           window.open(
-            "https://www.linkedin.com/in/yuvrajsingh170806/",
+            "https://www.linkedin.com/in/nehasingh25059411/",
             "_blank",
           );
         }}

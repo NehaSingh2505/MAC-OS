@@ -10,7 +10,7 @@ const Nav = () => {
                 <img src="./navbar-icons/apple.svg" alt="" />
             </div>
             <div className="nav-item">
-              <p>Yuvraj Singh</p>
+              <p>Neha Singh</p>
             </div>
             <div className="nav-item">
               <p>File</p>
